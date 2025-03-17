@@ -1,0 +1,15 @@
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/bin/Debug/net9.0/Lab17_Ex06
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/bin/Debug/net9.0/Lab17_Ex06.deps.json
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/bin/Debug/net9.0/Lab17_Ex06.runtimeconfig.json
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/bin/Debug/net9.0/Lab17_Ex06.dll
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/bin/Debug/net9.0/Lab17_Ex06.pdb
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.AssemblyInfoInputs.cache
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.AssemblyInfo.cs
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.csproj.CoreCompileInputs.cache
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.sourcelink.json
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.dll
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/refint/Lab17_Ex06.dll
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.pdb
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/Lab17_Ex06.genruntimeconfig.cache
+/Users/ohmies/Documents/GitHub/OOP/Lab17-CSharp-Interface/Lab17_Ex06/obj/Debug/net9.0/ref/Lab17_Ex06.dll
